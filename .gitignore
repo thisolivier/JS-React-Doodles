@@ -2,3 +2,4 @@
 .Trashes
 *.xcuserdata
 *.xcworkspacedata
+node_modules/
